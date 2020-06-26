@@ -1,0 +1,6 @@
+exercise from the book:
+
+A Beginners Guide to Python 3 Programming
+John Hunt
+Springer Nature Switzerland AG 2019, corrected publication 2020
+ISBN 978-3-030-20289-7

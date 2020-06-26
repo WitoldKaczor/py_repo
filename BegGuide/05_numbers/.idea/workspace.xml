@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5786f973-b48a-4820-97ac-296df9a107b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1dpDXzT9trDsdaPcQWIQmNqomrH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercise02.py" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Python.exercise02">
+    <configuration name="exercise01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="05_numbers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise02" type="PythonConfigurationType" factoryName="Python">
+      <module name="05_numbers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files (x86)\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.exercise02" />
+      <item itemvalue="Python.exercise01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exercise01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5786f973-b48a-4820-97ac-296df9a107b2" name="Default Changelist" comment="" />
+      <created>1593113184993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593113184993</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="1176" width="601" height="426" key="#Notifications" timestamp="1593113860763">
+      <screen x="297" y="1080" width="1366" height="768" />
+    </state>
+    <state x="494" y="1176" width="601" height="426" key="#Notifications/112.0.1808.1080/297.1080.1366.768@297.1080.1366.768" timestamp="1593113860763" />
+    <state x="434" y="1118" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593116981845">
+      <screen x="297" y="1080" width="1366" height="768" />
+    </state>
+    <state x="434" y="1118" key="#com.intellij.execution.impl.EditConfigurationsDialog/112.0.1808.1080/297.1080.1366.768@297.1080.1366.768" timestamp="1593116981845" />
+    <state x="760" y="1218" key="FileChooserDialogImpl" timestamp="1593116979481">
+      <screen x="297" y="1080" width="1366" height="768" />
+    </state>
+    <state x="760" y="1218" key="FileChooserDialogImpl/112.0.1808.1080/297.1080.1366.768@297.1080.1366.768" timestamp="1593116979481" />
+    <state width="885" height="187" key="GridCell.Tab.0.bottom" timestamp="1593117479214">
+      <screen x="297" y="1080" width="1366" height="768" />
+    </state>
+    <state width="885" height="187" key="GridCell.Tab.0.bottom/112.0.1808.1080/297.1080.1366.768@297.1080.1366.768" timestamp="1593117479214" />
+    <state width="885" height="187" key="GridCell.Tab.0.center" timestamp="1593117479214">
+      <screen x="297" y="1080" width="1366" height="768" />
+    </state>
+    <state width="885" height="187" key="GridCell.Tab.0.center/112.0.1808.1080/297.1080.1366.768@297.1080.1366.768" timestamp="1593117479214" />
+    <state width="885" height="187" key="GridCell.Tab.0.left" timestamp="1593117479214">
+      <screen x="297" y="1080" width="1366" height="768" />
+    </state>
+    <state width="885" height="187" key="GridCell.Tab.0.left/112.0.1808.1080/297.1080.1366.768@297.1080.1366.768" timestamp="1593117479214" />
+    <state width="885" height="187" key="GridCell.Tab.0.right" timestamp="1593117479214">
+      <screen x="297" y="1080" width="1366" height="768" />
+    </state>
+    <state width="885" height="187" key="GridCell.Tab.0.right/112.0.1808.1080/297.1080.1366.768@297.1080.1366.768" timestamp="1593117479214" />
+    <state x="481" y="1095" key="SettingsEditor" timestamp="1593114443931">
+      <screen x="297" y="1080" width="1366" height="768" />
+    </state>
+    <state x="481" y="1095" key="SettingsEditor/112.0.1808.1080/297.1080.1366.768@297.1080.1366.768" timestamp="1593114443931" />
+    <state x="789" y="1377" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593116575947">
+      <screen x="297" y="1080" width="1366" height="768" />
+    </state>
+    <state x="789" y="1377" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/112.0.1808.1080/297.1080.1366.768@297.1080.1366.768" timestamp="1593116575947" />
+    <state x="643" y="1169" width="672" height="678" key="search.everywhere.popup" timestamp="1593117086853">
+      <screen x="297" y="1080" width="1366" height="768" />
+    </state>
+    <state x="643" y="1169" width="672" height="678" key="search.everywhere.popup/112.0.1808.1080/297.1080.1366.768@297.1080.1366.768" timestamp="1593117086853" />
+  </component>
+</project>
