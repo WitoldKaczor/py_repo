@@ -1,0 +1,6 @@
+exercise from the book:
+
+The Python Workbook
+Ben Stephenson
+Springer International Publishing Switzerland 2014
+ISBN 978-3-319-14239-5
